@@ -1,0 +1,11 @@
+{
+  "name": "booksland",
+  "version": "1.0.0",
+  "description": "Proyecto red social 3DAW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Alberto Espinel Zwart | Javier Paredes Vela",
+  "license": "MIT"
+}
